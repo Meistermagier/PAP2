@@ -1,4 +1,4 @@
-Bremskraft [N];Drehzahl [RPM];Heizstrom [A];dHeizstrom [A];Heizspannung [V];dHeizspannung [V];Fl‰che [hPa cm^3]
+Bremskraft [N];Drehzahl [RPM];Heizstrom [A];dHeizstrom [A];Heizspannung [V];dHeizspannung [V];Fl√§che [hPa cm^3]
 0.80;240.0;2.62;0.05;11.80;0.15;26988
 0.80;239.4;2.61;0.05;11.80;0.15;26788
 0.80;280.0;2.62;0.05;11.81;0.15;26682
